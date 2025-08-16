@@ -1,18 +1,19 @@
 # GPT4U
-### Information gained via AI may be inaccurate or outdated! Do __not__ use for important information
+### ⚠️ Disclaimer: AI-generated information may be inaccurate or outdated! Do not rely on it for critical decisions.
 
 A project aimed at allowing users to use as many AI models for free as possible. Made possible by the amazing gpt4free by xtekky
 
-No auth, keys, or anything else needed! __Most__ models available work. 
+No authentication, API keys, or other setup required! __Most__ models available work. 
 
-Built to be useful. Both web based and window based usage will be available.
+Built with practicality in mind - will available for both web and desktop usage.
 
 ## Features:
-- ~Web Usage~ - Soon
+- ~Web Usage~ - SOON
 - Window Usage
 - Text Generation
-- ~Image Generation~ - Soon
-- Powerful models
+- ~Image Generation~ - SOO
+- ~Video Generation~ - SOON
+- Access to powerful AI models
 
 # Usage
 
